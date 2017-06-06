@@ -6,7 +6,7 @@
 // Copyright (c) 2014 Axel Schlueter
 
 // Renamed to Datify [https://github.com/hemangshah/Datify]
-// Updated for Swift 3.x on wards on 6th.Jun.17.
+// Updated for Swift 3.x on 6th.Jun.17.
 // Hemang Shah
 // The MIT License (MIT)
 // Copyright (c) 2017 Hemang Shah
