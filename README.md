@@ -1,4 +1,4 @@
-# Datify
+# Datify 🕛
 
 Easypeasy date functions.
 
