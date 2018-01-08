@@ -11,10 +11,12 @@ Easypeasy date functions.
 
 Usage:
 
-    print("now:                   \(Date.init())")
-    print("8 days later:          \(8.days.fromNow)")
-    print("2 weeks before:        \(2.weeks.ago)")
-    print("5 days, 3 month later: \((5.days + 3.months).fromNow)")
+````swift
+print("now:                   \(Date.init())")
+print("8 days later:          \(8.days.fromNow)")
+print("2 weeks before:        \(2.weeks.ago)")
+print("5 days, 3 month later: \((5.days + 3.months).fromNow)")
+````
   
 Output:
  
